@@ -15,7 +15,7 @@ This is an assignment to practise js and learn more
 ## pictures of this Work
 
 ##A view##
-<img src="./img/one.jpg">
+<img src="./img/one.png">
 
 ## laguages
 
